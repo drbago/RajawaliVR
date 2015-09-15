@@ -28,6 +28,7 @@ local.gradle
 .idea/scopes/scope_settings.xml
 .idea/vcs.xml
 *.iml
+*/.idea/workspace.xml
  
 # OS-specific files
 .DS_Store
